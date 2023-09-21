@@ -1,0 +1,11 @@
+- 👋 Salut, je suis @merlinscode
+- 👀 Je suis développeur, et travaille au sein d'organisations 
+- 🌱 J'apprends à code le HTML
+- 💞️ Partenariats ou collborations fermées
+- 📫 Contact : ali.svss sur Discord
+
+- 👋 Hi, I'm @merlinscode
+- 👀 I am a developer, and work within organizations
+- 🌱 I'm learning to code HTML
+- 💞️ Closed partnerships or collaborations
+- 📫 Contact: ali.svss on Discord
